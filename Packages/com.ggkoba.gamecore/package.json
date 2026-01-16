@@ -1,0 +1,8 @@
+{
+  "name": "com.ggkoba.gamecore",
+  "version": "0.1.0",
+  "displayName": "GameCore",
+  "description": "Reusable core modules with sandbox scenes.",
+  "unity": "2022.3",
+  "author": { "name": "GGKoba" }
+}
