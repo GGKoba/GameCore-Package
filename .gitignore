@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Allow core files
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
+!Packages/
+
+# Allow only our package
+Packages/*
+!Packages/com.ggkoba.gamecore/
+!Packages/com.ggkoba.gamecore/**
